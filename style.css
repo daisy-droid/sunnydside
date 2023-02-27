@@ -5,14 +5,12 @@ nav{
     margin-left: 50px;
     font-weight: bolder;
     font-size: 23px;
-    /* background-color: rgb(69, 194, 243); */
+   
     color:white;
     
 }
 
-body{
-    background-color: rgb(98, 192, 243);
-}
+
 #heading{
     
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
